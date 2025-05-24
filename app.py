@@ -6,7 +6,7 @@ import seaborn as sns
 
 # ---- Page config ----
 st.set_page_config(
-    page_title="📊 Superstore Profit Classifier",
+    page_title="Superstore Profit Classifier",
     page_icon="📈",
     layout="wide"
 )
